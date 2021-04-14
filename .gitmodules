@@ -1,0 +1,3 @@
+[submodule "ford-fulkerson-interactive-visualizer"]
+	path = ford-fulkerson-interactive-visualizer
+	url = https://github.com/MostafaOmar98/ford-fulkerson-interactive-visualizer
