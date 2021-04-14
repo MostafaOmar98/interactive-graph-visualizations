@@ -4,3 +4,6 @@
 [submodule "MinimumHamiltonCycleVisualizer"]
 	path = MinimumHamiltonCycleVisualizer
 	url = https://github.com/MostafaOmar98/MinimumHamiltonCycleVisualizer
+[submodule "MinimumSpanningTreeVisualizer"]
+	path = MinimumSpanningTreeVisualizer
+	url = https://github.com/MostafaOmar98/MinimumSpanningTreeVisualizer/
