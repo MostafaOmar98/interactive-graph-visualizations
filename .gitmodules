@@ -1,3 +1,6 @@
 [submodule "ford-fulkerson-interactive-visualizer"]
 	path = ford-fulkerson-interactive-visualizer
 	url = https://github.com/MostafaOmar98/ford-fulkerson-interactive-visualizer
+[submodule "MinimumHamiltonCycleVisualizer"]
+	path = MinimumHamiltonCycleVisualizer
+	url = https://github.com/MostafaOmar98/MinimumHamiltonCycleVisualizer
